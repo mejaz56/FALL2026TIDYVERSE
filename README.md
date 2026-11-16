@@ -199,9 +199,9 @@ Initial Description and Link: _TBD_
 Revision/Addition Description and Link: _TBD_
 
 ### Mubin E
-Initial Description and Link: _TBD_
+Initial Description and Link: Annotating and explaining what I know about TidyVerse via Diabetes DataSet from Kaggle.com
 
-Revision/Addition Description and Link: _TBD_
+Revision/Addition Description and Link: (https://github.com/acatlin/FALL2026TIDYVERSE/pull/21/changes/80cb2bcfc2b17c8b93c97993a24fcfa241574213)
 
 ### Muhammad I
 Initial Description and Link: This vignette demonstrates how to use the **Tidyverse** to import, inspect, transform, summarize, and visualize an observational dataset. The dataset contains information about online news articles and the number of times each article was shared.
